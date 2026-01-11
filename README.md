@@ -1,16 +1,44 @@
-# React + Vite
+# ☕ Baristapp Web
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Landing page oficial de **Baristapp**, una plataforma de gestión diseñada para cafeterías, restaurantes y pequeños negocios de comida en América Latina.
 
-Currently, two official plugins are available:
+Esta web presenta la propuesta de valor, planes de suscripción y puntos de contacto de Baristapp.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## React Compiler
+## 🚀 Tecnologías utilizadas
 
-The React Compiler is currently not compatible with SWC. See [this issue](https://github.com/vitejs/vite-plugin-react/issues/428) for tracking the progress.
+- **React** (con Vite)
+- **CSS puro** (sin frameworks de UI)
+- **JavaScript (ES6+)**
+- **HTML5 semántico**
 
-## Expanding the ESLint configuration
+> ⚠️ Esta versión es únicamente la **página web promocional**.  
+> No incluye backend ni lógica de la aplicación principal.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🎯 Objetivo del proyecto
+
+El objetivo de esta web es:
+
+- Presentar claramente el producto Baristapp
+- Mostrar planes pensados para distintos tipos de negocios
+- Validar diseño, estructura y narrativa del producto
+- Servir como base para el crecimiento del ecosistema Baristapp
+
+---
+
+## 🧠 Filosofía de desarrollo
+
+Este proyecto fue desarrollado de manera **manual y consciente**:
+
+- El código fue escrito por el autor
+- La IA se utilizó únicamente como **herramienta de apoyo**
+- Se priorizó el aprendizaje profundo de React y CSS
+- Cada componente fue construido paso a paso
+
+
+
+---
+
